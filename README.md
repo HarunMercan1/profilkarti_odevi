@@ -1,16 +1,11 @@
-# profilkarti_odevi
+# Profil Kartı Uygulaması
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş basit ve modern bir profil kartı kullanıcı arayüzü (UI) çalışmasıdır.
 
-## Getting Started
+## Ekran Görüntüsü
 
-This project is a starting point for a Flutter application.
+<img src="assets/images/1.png" alt="Proje Ekran Görüntüsü" height="600"/>
 
-A few resources to get you started if this is your first Flutter project:
+## Açıklama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu uygulama, bir kullanıcının profil bilgilerini, sosyal medya bağlantılarını ve etkileşim istatistiklerini gösteren statik bir arayüz içerir. Flutter'ın temel widget'ları kullanılarak temiz ve anlaşılır bir tasarım hedeflenmiştir.
