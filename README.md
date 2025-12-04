@@ -8,6 +8,7 @@ Bu proje, Flutter kullanılarak geliştirilmiş basit ve modern bir profil kart�
 
 ## Açıklama
 
+...
 Bu uygulama bir kullanıcının profil bilgilerini, sosyal medya bağlantılarını ve etkileşim istatistiklerini gösteren statik bir arayüz içerir. Flutterın temel widget'ları kullanılarak temiz ve anlaşılır bir tasarım hedeflenmiştir.
 <<<<<<< HEAD
 ...
